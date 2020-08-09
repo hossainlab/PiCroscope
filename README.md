@@ -14,9 +14,7 @@ A Digital Raspberry Pi-Based Microscope. The name "Pi" comes from **Raspberry Pi
 - Easy to use 
 
 ## Instruments 
-- Raspberry Pi4
 ![pi](https://www.raspberrypi.org/homepage-9df4b/static/raspberry-pi-4-labelled-2857741801afdf1cabeaa58325e07b58.png)
--Raspberry Pi NoIR Camera V2 8MP
 ![camera](https://store.roboticsbd.com/2716-large_default/raspberry-pi-camera-v21raspberry-pi-camera-in-robotics-bangladesh.jpg)
 - HDMI Cable 
 - Power Adapter 
